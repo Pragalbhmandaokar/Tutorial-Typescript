@@ -3,7 +3,7 @@
 let a: number;
 
 ```
-''Any Number type Data can be story: Float, Double, Int''
+>Any Number type Data can be story: Float, Double, Int
 ```
 let b: boolean;
 

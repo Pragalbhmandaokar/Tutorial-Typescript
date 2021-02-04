@@ -1,16 +1,43 @@
 Some basic Git commands are:
 ```
 let a: number;
-let b: boolean;
-let c: String;
-let d: any;
-let e: number[] = [1,2,3,4,6,7];
-let f: any[] = [1,true,'a',false];
-
-const ColorRed = 0;
-const ColorGreen = 1;
-const ColorBlue = 2;
-
-enum Color{Red =0 , Green= 1 ,Blue= 2};
 
 ```
+Any Number type Data can be story: Float, Double, Int
+```
+let b: boolean;
+
+```
+Store True or false
+```
+let c: String;
+
+```
+Store Aplhanumberic
+```
+let d: any;
+
+```
+Can be modify datatype
+```
+let e: number[] = [1,2,3,4,6,7];
+
+```
+Array
+```
+let f: any[] = [1,true,'a',false];
+
+```
+Array with different datatypes
+
+```
+const ColorRed = 0;
+const ColorGreen = 1;
+
+```
+constant datatype
+```
+
+enum Color{Red =0 , Green= 1 ,Blue= 2};
+```
+Enumeration collection of variables

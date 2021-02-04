@@ -1,4 +1,4 @@
-Some basic Git commands are:
+**Datatypes in typescript**
 ```
 let a: number;
 

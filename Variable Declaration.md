@@ -8,36 +8,36 @@ let a: number;
 let b: boolean;
 
 ```
-Store True or false
+>Store True or false
 ```
 let c: String;
 
 ```
-Store Aplhanumberic
+>Store Aplhanumberic
 ```
 let d: any;
 
 ```
-Can be modify datatype
+>Can be modify datatype
 ```
 let e: number[] = [1,2,3,4,6,7];
 
 ```
-Array
+>Array
 ```
 let f: any[] = [1,true,'a',false];
 
 ```
-Array with different datatypes
+>Array with different datatypes
 
 ```
 const ColorRed = 0;
 const ColorGreen = 1;
 
 ```
-constant datatype
+>constant datatype
 ```
 
 enum Color{Red =0 , Green= 1 ,Blue= 2};
 ```
-Enumeration collection of variables
+>Enumeration collection of variables
